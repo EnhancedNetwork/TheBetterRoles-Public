@@ -2,7 +2,7 @@
 
 A thrilling mod for *Among Us* that expands gameplay by introducing new **roles** for **Crewmates**, **Imposters**, and **Neutrals**. Plus, TBR brings a selection of **custom hats** and **commands** for an enhanced in-game experience!
 
-<img src="https://github.com/user-attachments/assets/8f0a9839-7b83-476b-be41-ac1f449356d4" alt="The Better Roles Logo" width="1000" height="400">
+<img src="https://github.com/user-attachments/assets/8f0a9839-7b83-476b-be41-ac1f449356d4" alt="The Better Roles Logo" width="1200" height="400">
 
 <div align="center">
     <a href="https://discord.gg/ten" target="_blank">
