@@ -12,12 +12,16 @@ A thrilling mod for *Among Us* that expands gameplay by introducing new **roles*
 
 ## Install
 
-### Release Zip File
-1. **Install the Mod**: Download the latest version from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) then extract the zip file within the Among Us directory.
+### Using the Release Zip File
+1. **Install the Mod**:  
+   Download the latest version from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) and extract the zip file into the Among Us directory.
 
-### TBR Dll File
-1. **Install BepInEx**: Download [BepInEx V6.0.0](https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip) and follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) to set up BepInEx.
-2. **Install TheBetterRoles**: Place the downloaded `TheBetterRoles.dll` from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) in `Among Us/BepInEx/plugins`.
+### Using the TBR DLL File
+1. **Install BepInEx**:  
+   - Download [BepInEx v6.0.0](https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip).  
+   - Follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html).
+2. **Install TheBetterRoles**:  
+   Place the downloaded `TheBetterRoles.dll` from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) into `Among Us/BepInEx/plugins`.
 
 ## Getting Started
 
