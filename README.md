@@ -10,12 +10,20 @@ A thrilling mod for *Among Us* that expands gameplay by introducing new **roles*
     </a>
 </div>
 
+## Install
+
+### Release Zip File
+1. **Install the Mod**: Download the latest version from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) then extract the zip file within the Among Us directory.
+
+### TBR Dll File
+1. **Install BepInEx**: Download [BepInEx V6.0.0](https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.2/BepInEx-Unity.IL2CPP-win-x86-6.0.0-pre.2.zip) and follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) to set up BepInEx.
+2. **Install TheBetterRoles**: Place the downloaded `TheBetterRoles.dll` from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) in `Among Us/BepInEx/plugins`.
+
 ## Getting Started
 
-1. **Install the Mod**: Download the latest version from [Releases](https://github.com/D1GQ/BetterAmongUs/releases) and follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html) to set up TBR.
-2. **Explore Roles & Commands**: Dive into new roles, hats, and commands designed to enrich the *Among Us* experience.
-3. **Check the Commands**: Type `/commands` in chat to see a list of all available commands.
-4. **Stay Updated**: Follow this page for updates and new features.
+1. **Explore Roles & Commands**: Dive into new roles, hats, and commands designed to enrich the *Among Us* experience.
+2. **Check the Commands**: Type `/commands` in chat to see a list of all available commands.
+3. **Stay Updated**: Follow this page for updates and new features.
 
 ## Features
 
