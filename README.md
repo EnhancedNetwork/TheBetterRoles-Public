@@ -22,6 +22,8 @@ A thrilling mod for *Among Us* that expands gameplay by introducing new **roles*
    - Follow the installation instructions in the [BepInEx Installation Guide](https://docs.bepinex.dev/articles/user_guide/installation/index.html).
 2. **Install TheBetterRoles**:  
    Place the downloaded `TheBetterRoles.dll` from [Releases](https://github.com/EnhancedNetwork/TheBetterRoles-Public/releases) into `Among Us/BepInEx/plugins`.
+3. **Install Reactor**:  
+Place the downloaded `Reactor.dll` from [Reactor v2.3.1](https://github.com/NuclearPowered/Reactor/releases/download/2.3.1/Reactor.dll) into `Among Us/BepInEx/plugins`.
 
 ## Getting Started
 
