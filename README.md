@@ -31,6 +31,88 @@ Place the downloaded `Reactor.dll` from [Reactor v2.3.1](https://github.com/Nucl
 2. **Check the Commands**: Type `/commands` in chat to see a list of all available commands.
 3. **Stay Updated**: Follow this page for updates and new features.
 
+## Roles List
+
+<table>
+  <thead>
+    <tr>
+      <th>Crewmates</th>
+      <th>Impostors</th>
+      <th>Neutrals</th>
+      <th>Addons</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Crewmate</td>
+      <td>Impostor</td>
+      <td>Arsonist</td>
+      <td>Bait</td>
+    </tr>
+    <tr>
+      <td>Altruist</td>
+      <td>Blackmailer</td>
+      <td>Amnesiac</td>
+      <td>ButtonBerry</td>
+    </tr>
+    <tr>
+      <td>Chameleon</td>
+      <td>Camouflager</td>
+      <td>Glitch</td>
+      <td>Drunk</td>
+    </tr>
+    <tr>
+      <td>Investigator</td>
+      <td>Grenadier</td>
+      <td>Jester</td>
+      <td>Giant</td>
+    </tr>
+    <tr>
+      <td>Mayor</td>
+      <td>Janitor</td>
+      <td>Mole</td>
+      <td>Glow</td>
+    </tr>
+    <tr>
+      <td>Medic</td>
+      <td>Miner</td>
+      <td>Opportunist</td>
+      <td>Lantern</td>
+    </tr>
+    <tr>
+      <td>Sheriff</td>
+      <td>Morphling</td>
+      <td>Pestilence</td>
+      <td>NoiseMaker</td>
+    </tr>
+    <tr>
+      <td>Snitch</td>
+      <td>Swooper</td>
+      <td>Phantom</td>
+      <td>Rebound</td>
+    </tr>
+    <tr>
+      <td>Swapper</td>
+      <td>Undertaker</td>
+      <td>Plaguebearer</td>
+      <td>Onbound</td>
+    </tr>
+    <tr>
+      <td>Transporter</td>
+      <td></td>
+      <td></td>
+      <td>Swift</td>
+    </tr>
+    <tr>
+      <td>Veteran</td>
+      <td></td>
+      <td></td>
+      <td>Tracker</td>
+    </tr>
+  </tbody>
+</table>
+
+
 ## Features
 
 **The Better Roles** adds a range of new elements to the game:
