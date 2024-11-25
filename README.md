@@ -40,6 +40,7 @@ Place the downloaded `Reactor.dll` from [Reactor v2.3.1](https://github.com/Nucl
       <th>Impostors</th>
       <th>Neutrals</th>
       <th>Addons</th>
+      <th>Ghost</th>
     </tr>
   </thead>
   <tbody>
@@ -48,70 +49,80 @@ Place the downloaded `Reactor.dll` from [Reactor v2.3.1](https://github.com/Nucl
       <td>Impostor</td>
       <td>Arsonist</td>
       <td>Bait</td>
+      <td>Phantom</td>
     </tr>
     <tr>
       <td>Altruist</td>
       <td>Blackmailer</td>
       <td>Amnesiac</td>
       <td>ButtonBerry</td>
+      <td></td>
     </tr>
     <tr>
       <td>Chameleon</td>
       <td>Camouflager</td>
       <td>Glitch</td>
       <td>Drunk</td>
+      <td></td>
     </tr>
     <tr>
       <td>Investigator</td>
       <td>Grenadier</td>
       <td>Jester</td>
       <td>Giant</td>
+      <td></td>
     </tr>
     <tr>
       <td>Mayor</td>
       <td>Janitor</td>
       <td>Mole</td>
       <td>Glow</td>
+      <td></td>
     </tr>
     <tr>
       <td>Medic</td>
       <td>Miner</td>
       <td>Opportunist</td>
       <td>Lantern</td>
+      <td></td>
     </tr>
     <tr>
       <td>Sheriff</td>
       <td>Morphling</td>
       <td>Pestilence</td>
       <td>NoiseMaker</td>
+      <td></td>
     </tr>
     <tr>
       <td>Snitch</td>
       <td>Swooper</td>
-      <td>Phantom</td>
+      <td>Plaguebearer</td>
       <td>Rebound</td>
+      <td></td>
     </tr>
     <tr>
       <td>Swapper</td>
       <td>Undertaker</td>
-      <td>Plaguebearer</td>
+      <td></td>
       <td>Onbound</td>
+      <td></td>
     </tr>
     <tr>
       <td>Transporter</td>
       <td></td>
       <td></td>
       <td>Swift</td>
+      <td></td>
     </tr>
     <tr>
       <td>Veteran</td>
       <td></td>
       <td></td>
       <td>Tracker</td>
+      <td></td>
     </tr>
   </tbody>
 </table>
-
 
 ## Features
 
