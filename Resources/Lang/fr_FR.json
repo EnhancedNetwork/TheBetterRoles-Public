@@ -160,7 +160,7 @@
   "Role.Engineer.LongInfo": "En tant qu'Ingénieur, vous pouvez utiliser les trappes, et vous avez la possibilité de fixer n'importe quels sabotages pour un certains nombres de fois.",
   "Role.Engineer.Option.AmountOfFixes": "Amount Of Fixes",
   "Role.Engineer.Ability.1": "Fix",
-  "Role.Transporter": "Transporter",
+  "Role.Transporter": "Transporteur",
   "Role.Transporter.Info": "Transport players around the map",
   "Role.Transporter.LongInfo": "As the Transporter, You can choose two players to swap positions on the map including yourself.",
   "Role.Transporter.Option.TransportCooldown": "Transport Cooldown",
