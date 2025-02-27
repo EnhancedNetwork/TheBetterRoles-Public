@@ -181,7 +181,7 @@
   "Role.Blackmailer.Info": "Blackmail the Crewmates",
   "Role.Blackmailer.LongInfo": "As the Blackmailer, you can choose a player to Blackmail, within a meeting that blackmailed player is not able to speak.",
   "Role.Blackmailer.Ability.1": "Blackmail",
-  "Role.Blackmailer.Option.BlackmailCooldown": "Blackmail Cooldown",
+  "Role.Blackmailer.Option.BlackmailCooldown": "Temps de recharge du chantage",
   "Role.Blackmailer.YouMsg": "<b>You</b> have been Blackmailed from speaking!",
   "Role.Blackmailer.AllMsg": "<b>{0}</b> has been Blackmailed from speaking!",
   "Role.Parasite": "Parasite",
