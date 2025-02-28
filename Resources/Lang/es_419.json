@@ -157,7 +157,7 @@
   "Role.Chameleon.Ability.2": "Reveal",
   "Role.Engineer": "Engineer",
   "Role.Engineer.Info": "Fix sabotages",
-  "Role.Engineer.LongInfo": "As the Engineer, You can vent around, and have the ability to fix any sabotage for a set amount of times.",
+  "Role.Engineer.LongInfo": "Como Ingeniero, puedes usar los conductos de ventilación y tienes la habilidad de reparar cualquier sabotaje un número limitado de veces.",
   "Role.Engineer.Option.AmountOfFixes": "Amount Of Fixes",
   "Role.Engineer.Ability.1": "Fix",
   "Role.Transporter": "Transporter",
