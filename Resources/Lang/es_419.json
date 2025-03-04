@@ -158,7 +158,7 @@
   "Role.Engineer": "Engineer",
   "Role.Engineer.Info": "Fix sabotages",
   "Role.Engineer.LongInfo": "Como Ingeniero, puedes usar los conductos de ventilación y tienes la habilidad de reparar cualquier sabotaje un número limitado de veces.",
-  "Role.Engineer.Option.AmountOfFixes": "Amount Of Fixes",
+  "Role.Engineer.Option.AmountOfFixes": "Cantidad de reparaciones",
   "Role.Engineer.Ability.1": "Fix",
   "Role.Transporter": "Transporter",
   "Role.Transporter.Info": "Transport players around the map",
