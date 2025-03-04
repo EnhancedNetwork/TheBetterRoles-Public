@@ -218,7 +218,7 @@
   "Role.Morphling.Option.TransformCooldown": "Transform Cooldown",
   "Role.Morphling.Option.TransformDuration": "Transform Duration",
   "Role.Swooper": "Swooper",
-  "Role.Swooper.Info": "Turn invisible temporarily",
+  "Role.Swooper.Info": "",
   "Role.Swooper.LongInfo": "As the Swooper, you can vanish temporarily.",
   "Role.Swooper.Ability.1": "Swoop",
   "Role.Swooper.Option.InvisibilityCooldown": "Invisibility Cooldown",
