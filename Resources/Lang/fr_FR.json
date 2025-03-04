@@ -203,7 +203,7 @@
   "Role.Possessor.Option.PossessCooldown": "Possess Cooldown",
   "Role.Possessor.Option.PossessDuration": "Possess Duration",
   "Role.Camouflager": "Camouflager",
-  "Role.Camouflager.Info": "Camouflage among the crewmates",
+  "Role.Camouflager.Info": "Camouflage entre les équipages",
   "Role.Camouflager.LongInfo": "As the Camouflager, color blind all players for a set duration.",
   "Role.Camouflager.Ability.1": "Camouflage",
   "Role.Camouflager.Option.CamouflageCooldown": "Camouflage Cooldown",
