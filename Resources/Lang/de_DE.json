@@ -305,7 +305,7 @@
   "Role.Jester.LongInfo": "Als Narr musst du dich zum gewinnen rausvoten lassen. Völlig einfach.",
   "Role.Executioner": "Scharfrichter",
   "Role.Executioner.Info": "Lass {0} rausvoten",
-  "Role.Executioner.LongInfo": "As the Executioner, you have a set Target for the rest of the game, get that Target voted out to win, if the Target dies before then depending on settings the Executioner will transfer into another role.",
+  "Role.Executioner.LongInfo": "Als Scharfrichter hast du ein bestimmtes Ziel für den Rest des Spiels, bekomme dieses Ziel rausgevotet für den Sieg, wenn das Ziel vorher stirbt, wird der Scharfrichter je nach Einstellungen zu einer anderen Rolle.",
   "Role.Executioner.Option.RoleOnTargetDead": "Rolle beim Tod des Ziels",
   "Role.Opportunist": "Opportunist",
   "Role.Opportunist.Info": "Überlebe bis zum Spielende",
