@@ -666,8 +666,6 @@
 
   "GuestManager.UnableToGuess": "{0} is unable to be guessed!",
 
-
-
   "Command.Arg.Player": "player",
   "Command.Arg.Killer": "killer",
   "Command.Arg.Target": "target",
