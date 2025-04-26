@@ -568,7 +568,7 @@
   "Game.Summary.Result.TasksCompletion": "Tasks Completion",
   "Game.Summary.Result.Outnumbered": "超出编号数",
   "Game.Summary.Result.Sabotage": "破坏",
-  "Game.Summary.Result.RoleCondition": "角色条件",
+  "Game.Summary.Result.RoleCondition": "职业条件",
   "GuestManager.UnableToGuess": "{0} 无法被猜测！",
   "Command.Arg.Player": "player",
   "Command.Arg.Killer": "killer",
